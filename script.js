@@ -10,7 +10,7 @@ const startDate = new Date('2025-05-24');
         let progressData = JSON.parse(localStorage.getItem('progressData')) || {};
         let currentPage = 1;
         const predefinedNotes = {
-            '2025-05-24': "Basics of C++ ✅\n\n Concept of Time Space Complexity ✅ \n Pattern Problems✅  ",
+            '2025-05-24': "Basics of C++ ✅\n Time and Space Complexity ✅ \n Pattern Problems✅  ",
             '2025-05-25': "We're not there yet",
             '2025-05-26': "We're not there yet",
             '2025-05-27': "We're not there yet",

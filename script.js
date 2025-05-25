@@ -10,7 +10,7 @@ const startDate = new Date('2025-05-24');
         let progressData = JSON.parse(localStorage.getItem('progressData')) || {};
         let currentPage = 1;
         const predefinedNotes = {
-            '2025-05-24': "We're not there yet",
+            '2025-05-24': "Basics of C++ ✅\n\n Concept of Time Space Complexity ✅ \n Pattern Problems✅  ",
             '2025-05-25': "We're not there yet",
             '2025-05-26': "We're not there yet",
             '2025-05-27': "We're not there yet",
@@ -63,8 +63,8 @@ const startDate = new Date('2025-05-24');
         };
         const predefinedSources = {
             '2025-05-24': [
-                { url: 'https://easyeda.com', image: 'https://via.placeholder.com/24' },
-                { url: 'https://github.com', image: 'https://via.placeholder.com/24' }
+                { url: 'https://youtu.be/EAR7De6Goz4?si=AV5lHVnCp9cOM9mQ', image: 'https://www.pngplay.com/wp-content/uploads/8/Youtube-Red-Logo-PNG-Clipart-Background.png' },
+                { url: 'https://youtu.be/EAR7De6Goz4?si=0KDKsbkFtL7QP0Av', image: 'https://www.pngplay.com/wp-content/uploads/8/Youtube-Red-Logo-PNG-Clipart-Background.png' }
             ],
             '2025-05-25': [
                 { url: 'https://www.infineon.com', image: 'https://via.placeholder.com/24' }

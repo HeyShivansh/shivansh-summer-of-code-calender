@@ -1,5 +1,5 @@
 const startDate = new Date('2025-05-24');
-        const currentDate = new Date('2025-05-24');
+        const currentDate = new Date();
         const days = 50;
         const daysPerPage = 7;
         const totalPages = Math.ceil(days / daysPerPage);
@@ -7,7 +7,8 @@ const startDate = new Date('2025-05-24');
         const prevPage = document.getElementById('prev-page');
         const nextPage = document.getElementById('next-page');
         const pageInfo = document.getElementById('page-info');
-        let progressData = JSON.parse(localStorage.getItem('progressData')) || {};
+        localStorage.removeItem('progressData');
+        let progressData = {};
         let currentPage = 1;
         const predefinedNotes = {
             '2025-05-24': "Basics of C++ ✅\n Time and Space Complexity ✅ \n Pattern Problems✅  ",
@@ -61,6 +62,8 @@ const startDate = new Date('2025-05-24');
             '2025-07-11': "We're not there yet",
             '2025-07-12': "We're not there yet"
         };
+        localStorage.setItem('progressData', JSON.stringify({}));
+
         const predefinedSources = {
             '2025-05-24': [
                 { url: 'https://youtu.be/EAR7De6Goz4?si=AV5lHVnCp9cOM9mQ', image: 'https://www.pngplay.com/wp-content/uploads/8/Youtube-Red-Logo-PNG-Clipart-Background.png' },

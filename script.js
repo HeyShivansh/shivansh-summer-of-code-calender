@@ -13,7 +13,7 @@ const startDate = new Date('2025-05-24');
         const predefinedNotes = {
             '2025-05-24': "Basics of C++ ✅\n Time and Space Complexity ✅ \n Pattern Problems✅  ",
             '2025-05-25': "Introduction to ML ✅ \n Linear Regression✅ \n Cost Function ✅ \n Gradient descent✅ \n STLs in C++ ✅",
-            '2025-05-26': "We're not there yet",
+            '2025-05-26': "Multiple linear Regression ✅ \n Polynomial Regression✅ \n Vectorization & Scaling ✅ \n Basic Maths in DSA ✅",
             '2025-05-27': "We're not there yet",
             '2025-05-28': "We're not there yet",
             '2025-05-29': "We're not there yet",
@@ -73,9 +73,7 @@ const startDate = new Date('2025-05-24');
                 { url: 'https://youtu.be/RRVYpIET_RU?si=3sK0rU_hlCb3TeS7', image: 'https://www.pngplay.com/wp-content/uploads/8/Youtube-Red-Logo-PNG-Clipart-Background.png' }
             ],
             '2025-05-26': [
-                { url: 'https://easyeda.com', image: 'https://via.placeholder.com/24' },
-                { url: 'https://www.ti.com', image: 'https://via.placeholder.com/24' },
-                { url: 'https://github.com', image: 'https://via.placeholder.com/24' }
+                { url: 'https://youtu.be/1xNbjMdbjug?si=UxjZdR2dLNY_bsCi', image: 'https://www.pngplay.com/wp-content/uploads/8/Youtube-Red-Logo-PNG-Clipart-Background.png'},
             ],
             '2025-05-27': [],
             '2025-05-28': [

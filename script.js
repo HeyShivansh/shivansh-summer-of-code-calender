@@ -15,7 +15,7 @@ const startDate = new Date('2025-05-24');
             '2025-05-25': "Introduction to ML ✅ \n Linear Regression✅ \n Cost Function ✅ \n Gradient descent✅ \n STLs in C++ ✅",
             '2025-05-26': "Multiple linear Regression ✅ \n Polynomial Regression✅ \n Vectorization & Scaling ✅ \n Basic Maths in DSA ✅",
             '2025-05-27': "Logistic Regression and Regularization ✅ \n Overfitting and Underfitting✅ \n Started Recursion ✅",
-            '2025-05-28': "We're not there yet",
+            '2025-05-28': "Recursion ✅ \n Hashing✅",
             '2025-05-29': "We're not there yet",
             '2025-05-30': "We're not there yet",
             '2025-05-31': "We're not there yet",
@@ -77,7 +77,7 @@ const startDate = new Date('2025-05-24');
             ],
             '2025-05-27': [],
             '2025-05-28': [
-                { url: 'https://www.st.com', image: 'https://via.placeholder.com/24' }
+                { url: 'https://youtu.be/kvRjNm4rVBE?si=3MFIZyjL-ZlGL-qP', image: 'https://www.pngplay.com/wp-content/uploads/8/Youtube-Red-Logo-PNG-Clipart-Background.png' }
             ],
             '2025-05-29': [
                 { url: 'https://www.digikey.com', image: 'https://via.placeholder.com/24' }

@@ -16,7 +16,7 @@ const startDate = new Date('2025-05-24');
             '2025-05-26': "Multiple linear Regression ✅ \n Polynomial Regression✅ \n Vectorization & Scaling ✅ \n Basic Maths in DSA ✅",
             '2025-05-27': "Logistic Regression and Regularization ✅ \n Overfitting and Underfitting✅ \n Started Recursion ✅",
             '2025-05-28': "Recursion ✅ \n Hashing✅",
-            '2025-05-29': "Selection Sort ✅ \n Bubble Sort✅ Insertion Sort ✅",
+            '2025-05-29': "Selection Sort ✅ \n Bubble Sort✅ \n Insertion Sort ✅",
             '2025-05-30': "We're not there yet",
             '2025-05-31': "We're not there yet",
             '2025-06-01': "We're not there yet",

@@ -20,7 +20,7 @@ const startDate = new Date('2025-05-24');
             '2025-05-30': "Merge Sort ✅ \n Quick Sort✅ \n Started Arrays with Qs like\n Rotation of elements of arrays✅ \n Union and Intersection  ✅",
             '2025-05-31': "Solved Arrays Questions: \n Max consecutive 1's✅ \n Longest subarray with sum K  ✅ \n Missing Number✅",
             '2025-06-01': "Solved Arrays Questions: \n Dutch's National FLag Algorithm✅ \n Kadane's Algorithm ✅ \n Moore's Voting Algorithm✅",
-            '2025-06-02': "We're not there yet",
+            '2025-06-02': "Solved Arrays Questions: \n Best time to Sell & Buy Stocks✅ \n Next Permutation ✅ \n Leaders in an array✅ \n Rearrange elements by sign✅",
             '2025-06-03': "We're not there yet",
             '2025-06-04': "We're not there yet",
             '2025-06-05': "We're not there yet",
@@ -88,9 +88,7 @@ const startDate = new Date('2025-05-24');
             ],
             '2025-05-31': [],
             '2025-06-01': [],
-            '2025-06-02': [
-                { url: 'https://www.kvaser.com', image: 'https://via.placeholder.com/24' }
-            ],
+            '2025-06-02': [],
             '2025-06-03': [],
             '2025-06-04': [
                 { url: 'https://github.com', image: 'https://via.placeholder.com/24' }

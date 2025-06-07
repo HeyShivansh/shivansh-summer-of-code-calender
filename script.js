@@ -24,7 +24,7 @@ const startDate = new Date('2025-05-24');
             '2025-06-03': "Solved Arrays Questions: \n Longest consecutive sequence✅ \n Rearrange elements by sign✅",
             '2025-06-04': "Solved Arrays Questions: \ Set Matrix zeroes✅ \n Rotate matrix by 90 degrees✅ \n Spiral Traversal in Matrix✅",
             '2025-06-05': "Started a new course on Deep Learning and Neural Networks✅",
-            '2025-06-06': "We're not there yet",
+            '2025-06-06': "Logistic Regression ✅ \n Gradient descent✅ \n Derivatives✅ \n Computation Graph✅",
             '2025-06-07': "We're not there yet",
             '2025-06-08': "We're not there yet",
             '2025-06-09': "We're not there yet",

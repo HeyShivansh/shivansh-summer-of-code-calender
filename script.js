@@ -25,8 +25,8 @@ const startDate = new Date('2025-05-24');
             '2025-06-04': "Solved Arrays Questions: \ Set Matrix zeroes✅ \n Rotate matrix by 90 degrees✅ \n Spiral Traversal in Matrix✅",
             '2025-06-05': "Started a new course on Deep Learning and Neural Networks✅",
             '2025-06-06': "Logistic Regression ✅ \n Gradient descent✅ \n Derivatives✅ \n Computation Graph✅",
-            '2025-06-07': "We're not there yet",
-            '2025-06-08': "We're not there yet",
+            '2025-06-07': "WVectorization of Logistic Regression ✅ \n Gradient descent✅",
+            '2025-06-08': "Worked logistic regression on python and learned about broadcasting ✅ ",
             '2025-06-09': "We're not there yet",
             '2025-06-10': "We're not there yet",
             '2025-06-11': "We're not there yet",
@@ -97,11 +97,10 @@ const startDate = new Date('2025-05-24');
                
             ],
             '2025-06-06': [
-                { url: 'https://www.ti.com', image: 'https://via.placeholder.com/24' }
             ],
             '2025-06-07': [],
             '2025-06-08': [
-                { url: 'https://www.analog.com', image: 'https://via.placeholder.com/24' }
+
             ],
             '2025-06-09': [
                 { url: 'https://www.mathworks.com', image: 'https://via.placeholder.com/24' }

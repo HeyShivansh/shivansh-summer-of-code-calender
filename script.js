@@ -27,7 +27,7 @@ const startDate = new Date('2025-05-24');
             '2025-06-06': "Logistic Regression ✅ \n Gradient descent✅ \n Derivatives✅ \n Computation Graph✅",
             '2025-06-07': "WVectorization of Logistic Regression ✅ \n Gradient descent✅",
             '2025-06-08': "Worked logistic regression on python and learned about broadcasting ✅ ",
-            '2025-06-09': "We're not there yet",
+            '2025-06-09': "Solved Python assignment for logistic regression \n Started Neural Networks",
             '2025-06-10': "We're not there yet",
             '2025-06-11': "We're not there yet",
             '2025-06-12': "We're not there yet",

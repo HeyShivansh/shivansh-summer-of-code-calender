@@ -28,7 +28,7 @@ const startDate = new Date('2025-05-24');
             '2025-06-07': "WVectorization of Logistic Regression ✅ \n Gradient descent✅",
             '2025-06-08': "Worked logistic regression on python and learned about broadcasting ✅ ",
             '2025-06-09': "Solved Python assignment for logistic regression \n Started Neural Networks",
-            '2025-06-10': "We're not there yet",
+            '2025-06-10': "Neural Networks ✅ \n Activation function✅ \n Gradient descent for Neural Networks✅",
             '2025-06-11': "We're not there yet",
             '2025-06-12': "We're not there yet",
             '2025-06-13': "We're not there yet",
@@ -103,7 +103,7 @@ const startDate = new Date('2025-05-24');
 
             ],
             '2025-06-09': [
-                { url: 'https://www.mathworks.com', image: 'https://via.placeholder.com/24' }
+             
             ],
             '2025-06-10': [],
             '2025-06-11': [

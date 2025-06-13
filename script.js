@@ -30,7 +30,7 @@ const startDate = new Date('2025-05-24');
             '2025-06-09': "Solved Python assignment for logistic regression \n Started Neural Networks",
             '2025-06-10': "Neural Networks ✅ \n Activation function✅ \n Gradient descent for Neural Networks✅",
             '2025-06-11': "Back Propagation✅ \n L Layer Neural Networks ✅ \n HyperParameters✅",
-            '2025-06-12': "We're not there yet",
+            '2025-06-12': "Practied on a jupyter notebook of L layer neural network",
             '2025-06-13': "We're not there yet",
             '2025-06-14': "We're not there yet",
             '2025-06-15': "We're not there yet",

@@ -34,7 +34,7 @@ const startDate = new Date('2025-05-24');
             '2025-06-13': "Regularization✅ \n Normalization ✅ \n Weighted intialization✅ \n Gradient Checking✅",
             '2025-06-14': "Mini Batch Gradient Descent ✅\n Bias correction ✅\n Gradient descent with momentum ✅",
             '2025-06-15': "RMSprop ✅\n Adam Optimization Algorithm✅\n Learning Rate decay✅",
-            '2025-06-16': "We're not there yet",
+            '2025-06-16': "Batch Norm ✅\n Softmax Regression✅\n Worked a bit on TensorFlow✅",
             '2025-06-17': "We're not there yet",
             '2025-06-18': "We're not there yet",
             '2025-06-19': "We're not there yet",

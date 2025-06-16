@@ -32,7 +32,7 @@ const startDate = new Date('2025-05-24');
             '2025-06-11': "Back Propagation✅ \n L Layer Neural Networks ✅ \n HyperParameters✅",
             '2025-06-12': "Practied on a jupyter notebook of L layer neural network",
             '2025-06-13': "Regularization✅ \n Normalization ✅ \n Weighted intialization✅ \n Gradient Checking✅",
-            '2025-06-14': "We're not there yet",
+            '2025-06-14': "Mini Batch Gradient Descent ✅\n Bias correction ✅\n Gradient descent with momentum ✅",
             '2025-06-15': "We're not there yet",
             '2025-06-16': "We're not there yet",
             '2025-06-17': "We're not there yet",

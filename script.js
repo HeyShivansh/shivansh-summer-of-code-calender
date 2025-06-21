@@ -38,7 +38,7 @@ const startDate = new Date('2025-05-24');
             '2025-06-17': "Finished a course on Structures of Machine Learning Projects",
             '2025-06-18': "Convolutional Neural Network ✅\n Vertical Edge detection ✅\n Pooling and Padding ✅",
             '2025-06-19': "Inception Network ✅\n  ResNet ✅\n  MobileNet ✅\n  Depthwise convolution✅",
-            '2025-06-20': "We're not there yet",
+            '2025-06-20': "Image Normalization ✅\n  Object detection ✅\n  SLiding window algorithm ✅",
             '2025-06-21': "We're not there yet",
             '2025-06-22': "We're not there yet",
             '2025-06-23': "We're not there yet",

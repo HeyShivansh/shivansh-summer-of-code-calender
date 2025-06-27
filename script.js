@@ -44,7 +44,7 @@ const startDate = new Date('2025-05-24');
             '2025-06-23': "YOLO Algorithm ✅\n  Transpose Convolution ✅\n  U net architecture✅",
             '2025-06-24': "Face Recognition ✅\n  Siamese Network ✅\n Triplet Loss✅ ✅\n  Neural Style Transfer ✅\n Content and Style Cost Funtion✅",
             '2025-06-25': "Python Lab on \n Face Recognition and \n Art Generation with \n Neural Style Transfer",
-            '2025-06-26': "We're not there yet",
+            '2025-06-26': "finished 2 hours of JavaScript Oneshot",
             '2025-06-27': "We're not there yet",
             '2025-06-28': "We're not there yet",
             '2025-06-29': "We're not there yet",

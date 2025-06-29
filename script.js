@@ -47,7 +47,7 @@ const startDate = new Date('2025-05-24');
             '2025-06-26': "finished 2 hours of JavaScript Oneshot",
             '2025-06-27': "Continued java script and collected data sets for the new project",
             '2025-06-28': "formatted the data sets and revised arrays",
-            '2025-06-29': "We're not there yet",
+            '2025-06-29': "Started a new ML course on sequential networks",
             '2025-06-30': "We're not there yet",
             '2025-07-01': "We're not there yet",
             '2025-07-02': "We're not there yet",

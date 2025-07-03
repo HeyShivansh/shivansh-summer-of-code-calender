@@ -51,7 +51,7 @@ const startDate = new Date('2025-05-24');
             '2025-06-30': "Recurrent Neural Networks ✅\n Backward propagation through time ✅\n Language Model and Sequence Generation✅",
             '2025-07-01': "Gated Recurrent Unit(GRU)✅\n Long Short Term Memory(LSTM) ✅\n Bidirectional and Deep RNNs✅",
             '2025-07-02': "Solved revised Array Solutions and ML theory",
-            '2025-07-03': "We're not there yet",
+            '2025-07-03': "Augmented Datasets for the project and continued JS",
             '2025-07-04': "We're not there yet",
             '2025-07-05': "We're not there yet",
             '2025-07-06': "We're not there yet",

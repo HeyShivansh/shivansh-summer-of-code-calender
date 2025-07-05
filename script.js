@@ -52,8 +52,8 @@ const startDate = new Date('2025-05-24');
             '2025-07-01': "Gated Recurrent Unit(GRU)✅\n Long Short Term Memory(LSTM) ✅\n Bidirectional and Deep RNNs✅",
             '2025-07-02': "Solved revised Array Solutions and ML theory",
             '2025-07-03': "Augmented Datasets for the project and continued JS",
-            '2025-07-04': "We're not there yet",
-            '2025-07-05': "We're not there yet",
+            '2025-07-04': "Finished Python Labs based On RNN and created a Dinosaur name generator",
+            '2025-07-05': "",
             '2025-07-06': "We're not there yet",
             '2025-07-07': "We're not there yet",
             '2025-07-08': "We're not there yet",
@@ -107,84 +107,80 @@ const startDate = new Date('2025-05-24');
             ],
             '2025-06-10': [],
             '2025-06-11': [
-                { url: 'https://www.ansys.com', image: 'https://via.placeholder.com/24' }
             ],
             '2025-06-12': [
-                { url: 'https://www.ti.com', image: 'https://via.placeholder.com/24' }
             ],
             '2025-06-13': [
-                { url: 'https://fsaeonline.com', image: 'https://via.placeholder.com/24' }
+
             ],
             '2025-06-14': [],
             '2025-06-15': [
-                { url: 'https://www.mathworks.com', image: 'https://via.placeholder.com/24' }
+
             ],
             '2025-06-16': [
-                { url: 'https://github.com', image: 'https://via.placeholder.com/24' }
+
             ],
             '2025-06-17': [],
             '2025-06-18': [
-                { url: 'https://www.vector.com', image: 'https://via.placeholder.com/24' }
+
             ],
             '2025-06-19': [
-                { url: 'https://www.ti.com', image: 'https://via.placeholder.com/24' }
+
             ],
             '2025-06-20': [
-                { url: 'https://github.com', image: 'https://via.placeholder.com/24' }
+
             ],
             '2025-06-21': [],
             '2025-06-22': [
-                { url: 'https://librepcb.org', image: 'https://via.placeholder.com/24' }
+                            
             ],
             '2025-06-23': [
-                { url: 'https://www.ti.com', image: 'https://via.placeholder.com/24' }
+
             ],
             '2025-06-24': [],
             '2025-06-25': [
-                { url: 'https://fsaeonline.com', image: 'https://via.placeholder.com/24' }
+    
             ],
             '2025-06-26': [
-                { url: 'https://www.mathworks.com', image: 'https://via.placeholder.com/24' }
+              
             ],
             '2025-06-27': [],
             '2025-06-28': [
-                { url: 'https://www.autodesk.com', image: 'https://via.placeholder.com/24' }
+                        
             ],
             '2025-06-29': [
-                { url: 'https://www.ti.com', image: 'https://via.placeholder.com/24' }
+       
             ],
             '2025-06-30': [
-                { url: 'https://fsaeonline.com', image: 'https://via.placeholder.com/24' }
+
             ],
             '2025-07-01': [],
             '2025-07-02': [
-                { url: 'https://www.mathworks.com', image: 'https://via.placeholder.com/24' }
+  
             ],
             '2025-07-03': [
-                { url: 'https://www.vector.com', image: 'https://via.placeholder.com/24' }
+
             ],
             '2025-07-04': [],
             '2025-07-05': [
-                { url: 'https://www.analog.com', image: 'https://via.placeholder.com/24' }
+          
             ],
             '2025-07-06': [
-                { url: 'https://www.ti.com', image: 'https://via.placeholder.com/24' }
+
             ],
             '2025-07-07': [],
             '2025-07-08': [
-                { url: 'https://fsaeonline.com', image: 'https://via.placeholder.com/24' }
+        
             ],
             '2025-07-09': [
-                { url: 'https://github.com', image: 'https://via.placeholder.com/24' }
+           
             ],
             '2025-07-10': [],
             '2025-07-11': [
-                { url: 'https://fsaeonline.com', image: 'https://via.placeholder.com/24' }
+        
             ],
-            '2025-07-12': [
-                { url: 'https://www.ti.com', image: 'https://via.placeholder.com/24' },
-                { url: 'https://github.com', image: 'https://via.placeholder.com/24' }
-            ]
+            '2025-07-12': []
+              
         };
         function generateStars() {
             const numStars = 50;

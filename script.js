@@ -56,7 +56,7 @@ const startDate = new Date('2025-05-24');
             '2025-07-05': "Finished pythonlab created a jazz music generator",
             '2025-07-06': "Completed 8 hours of 12 hr JS one shot",
             '2025-07-07': "Finished JS one shot",
-            '2025-07-08': "We're not there yet",
+            '2025-07-08': "Developed the convolutional layer for the project",
             '2025-07-09': "We're not there yet",
             '2025-07-10': "We're not there yet",
             '2025-07-11': "We're not there yet",

@@ -59,7 +59,7 @@ const startDate = new Date('2025-05-24');
             '2025-07-08': "Developed the convolutional layer for the project",
             '2025-07-09': "Revised Arrays concepts and practiced Questions",
             '2025-07-10': "Worked on JS codes",
-            
+            '2025-07-11': "Started a new Data science course and revised python basics",
             '2025-07-12': "We're not there yet"
         };
         localStorage.setItem('progressData', JSON.stringify({}));

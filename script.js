@@ -60,7 +60,7 @@ const startDate = new Date('2025-05-24');
             '2025-07-09': "Revised Arrays concepts and practiced Questions",
             '2025-07-10': "Worked on JS codes",
             '2025-07-11': "Started a new Data science course and revised python basics",
-            '2025-07-12': "We're not there yet"
+            '2025-07-12': "Learned about new functions in numpy and worked on regex"
         };
         localStorage.setItem('progressData', JSON.stringify({}));
 
